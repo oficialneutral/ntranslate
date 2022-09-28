@@ -9,7 +9,7 @@
 **Ntranslate** es un sistema de traducción automatico
 para usarlo sin problemas en tu servidor de discord.
 
-[Seguir](https://twitter.com/oficialneutral)![](https://img.shields.io/twitter/follow/oficialneutral?style=social)
+[Seguir](https://twitter.com/oficialneutral) ![](https://img.shields.io/twitter/follow/oficialneutral?style=social)
 
 ![](https://img.shields.io/github/directory-file-count/oficialneutral/ntranslate) ![](https://img.shields.io/github/languages/code-size/oficialneutral/ntranslate) 
 ![](https://img.shields.io/github/downloads/oficialneutral/ntranslate/total)
