@@ -37,7 +37,7 @@ Establece el **token** del bot y el idioma al que deseas traducir
 
 {
  	"token": "ingresa el token",
- 	"lenguage": "Ingresa el idioma"
+ 	"lenguage": "Ingresa el idioma" //ejemplo: es, bs
 }
 ```
 
