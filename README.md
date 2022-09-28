@@ -26,7 +26,7 @@ para usarlo sin problemas en tu servidor de discord.
 #### Configura datos.json
 Establece el **token** del bot y el idioma al que deseas traducir
 
-####datos.json　
+#### datos.json　
 
 ```javascript
 
