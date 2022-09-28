@@ -14,7 +14,7 @@ para usarlo sin problemas en tu servidor de discord.
 ![](https://img.shields.io/github/directory-file-count/oficialneutral/ntranslate) ![](https://img.shields.io/github/languages/code-size/oficialneutral/ntranslate) 
 ![](https://img.shields.io/github/downloads/oficialneutral/ntranslate/total)
 
-#Instalacion
+# Instalacion
 
 - **1)** Descargar los archivos en un **.zip** y extraerlos
 - **2)** Despues abre una terminal.
