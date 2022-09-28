@@ -149,3 +149,9 @@ Establece el **token** del bot y el idioma al que deseas traducir
     "yo": "Yoruba",
     "zu": "Zulu"
 ```
+
+#### Para finalizar ingresa esto en la terminal
+```
+node main.js
+```
+- Y ya el bot estara funcionando sin ningun problema
