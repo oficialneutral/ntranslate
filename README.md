@@ -1,7 +1,7 @@
 # Ntranslate 🔵v1.0.0   
 ![](https://raw.githubusercontent.com/oficialneutral/ntranslate/main/images/icon.png)
 
-####Todo lo necesario:
+#### Todo lo necesario:
 - Nodejs v16x [Descargar aqui](https://nodejs.org/dist/v16.17.1/node-v16.17.1-x64.msi)
 - Discord bot [Create your bot](https://discord.com/developers/applications)
 
