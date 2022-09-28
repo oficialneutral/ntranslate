@@ -20,7 +20,7 @@ para usarlo sin problemas en tu servidor de discord.
 - **2)** Despues abre una terminal.
 - **3)**
 - activa lo siguiente en [Developer portal](https://discord.com/developers/applications) eligiendo tu bot 
-![](https://raw.githubusercontent.com/oficialneutral/ntranslate/main/images/message.content.png)
+![](https://raw.githubusercontent.com/oficialneutral/ntranslate/main/images/message-content.png)
                 
 
 #### Y Ingresa:
