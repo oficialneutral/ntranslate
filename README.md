@@ -16,11 +16,12 @@ para usarlo sin problemas en tu servidor de discord.
 
 # Instalacion
 
-- **1)** Activa lo siguiente en [Developer portal](https://discord.com/developers/applications) eligiendo tu bot 
-- **2)** Descargar los archivos en un **.zip** y extraerlos
-- **3)** Despues abre una terminal
+- **1)** Activa lo siguiente en [Developer portal](https://discord.com/developers/applications) eligiendo tu bot
 
 ![](https://raw.githubusercontent.com/oficialneutral/ntranslate/main/images/message-content.png)
+
+- **2)** Descargar los archivos en un **.zip** y extraerlos
+- **3)** Despues abre una terminal
                 
 
 #### Despues ingresa:
