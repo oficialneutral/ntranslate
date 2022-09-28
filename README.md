@@ -154,4 +154,4 @@ Establece el **token** del bot y el idioma al que deseas traducir
 ```
 node main.js
 ```
-- Y ya el bot estara funcionando sin ningun problema
+- Y listo. ya el bot estaría funcionando sin ningún problema.
