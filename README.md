@@ -23,7 +23,7 @@ para usarlo sin problemas en tu servidor de discord.
 ![](https://raw.githubusercontent.com/oficialneutral/ntranslate/main/images/message-content.png)
                 
 
-#### Y Ingresa:
+#### Despues ingresa:
 
 `$ npm install` - Instala todos los paquetes necesarios 
 
