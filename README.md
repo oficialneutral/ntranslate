@@ -19,7 +19,7 @@ para usarlo sin problemas en tu servidor de discord.
 - **1)** Descargar los archivos en un **.zip** y extraerlos
 - **2)** Despues abre una terminal.
 - **3)** Activa lo siguiente en [Developer portal](https://discord.com/developers/applications) eligiendo tu bot 
-- 
+
 ![](https://raw.githubusercontent.com/oficialneutral/ntranslate/main/images/message-content.png)
                 
 
